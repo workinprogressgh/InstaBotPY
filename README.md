@@ -1,6 +1,8 @@
 # InstaBotPY
 A Bot to Get You Instagram Likes And Followers... Only Needs UserName And PassWord.
-This Bot Works by Following People And liking Posts, And People Usually Follow Back.
+This Bot Works by Following People And liking Posts, And People Usually Follow Back. 
+
+This Script is Based on [Instabot.py Framework](https://github.com/instabot-py/instabot.py). 
 
 You can Also Customise This Script by Changing the Values in Bot.py.
 More Info is Available Here - [Editing.md Info](https://github.com/AbdulAhad7267/InstaBotPY/blob/master/Editing.md)
